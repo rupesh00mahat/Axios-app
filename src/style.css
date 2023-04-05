@@ -1,0 +1,10 @@
+.textfield {
+  padding: 10px;
+  margin: 10px;
+}
+
+.submit {
+  background-color: black;
+  color: wheat;
+  padding: 10px;
+}
